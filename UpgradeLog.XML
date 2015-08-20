@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Banhang">
+</Property><Property Name="Solution File" Value="C:\Users\Kakaroto\Desktop\Banhang\Banhang.sln">
+</Property><Property Name="Date" Value="Tuesday, August 18, 2015">
+</Property><Property Name="Time" Value="22:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Banhang.sln" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang.sln">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Banhang.csproj" Description="Project file successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Banhang.csproj">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Business\CHITIETHOADON.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Business\CHITIETHOADON.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Business\HOADON.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Business\HOADON.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Business\KHACHHANG.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Business\KHACHHANG.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Business\LOAISANPHAM.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Business\LOAISANPHAM.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Business\SANPHAM.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Business\SANPHAM.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\DataAccess\Connect.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\DataAccess\Connect.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\DataAccess\DataAccess.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\DataAccess\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Entities\CHITIETHOADON.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Entities\CHITIETHOADON.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Entities\HOADON.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Entities\HOADON.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Entities\KHACHHANG.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Entities\KHACHHANG.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Entities\LOAISANPHAM.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Entities\LOAISANPHAM.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Entities\SANPHAM.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Entities\SANPHAM.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Form1.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormKhachhang.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormKhachhang.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormKhachhang.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormKhachhang.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormMain.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormMain.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormSanPham.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormSanPham.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormSanPham.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormSanPham.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Program.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Program.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\App.config" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\App.config">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormKhachhang.resx" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormKhachhang.resx">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormMain.resx" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\GUI\FormSanPham.resx" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\GUI\FormSanPham.resx">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Kakaroto\Desktop\Banhang\Backup\Banhang\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Banhang" Source="Banhang\Banhang.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Banhang" Source="Banhang\Banhang.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Banhang.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Banhang.sln" Description="Converted">
+</Event></UpgradeLog>
